@@ -25,8 +25,7 @@ I am an AI/ML Engineer passionate about building intelligent systems and deliver
 
 🛠 Deploy ML models with FastAPI, Docker, Kubernetes, and AWS.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vandana-akki&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vandana-akki&layout=compact&theme=radical)
+
 
 ---
 
